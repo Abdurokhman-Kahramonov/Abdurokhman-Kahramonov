@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://kahramonov.dev/](https://kahramonov.dev/)
 
-- 📝 I regularly write articles on [https://t.me/Abduroxman_IT_blog](https://t.me/Abduroxman_IT_blog)
+- 📝 I regularly write articles on [https://t.me/Abduroxman_IT_blog](https://t.me/Abdurokhman_Kahramonov)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
