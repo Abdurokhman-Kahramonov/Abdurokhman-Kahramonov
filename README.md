@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **digital transformation systems**
 
-- 🤝 I’m looking for help with **digital transformation systems**
-
 - 👨‍💻 All of my projects are available at [https://kahramonov.dev/](https://kahramonov.dev/)
 
 - 📝 I regularly write articles on [https://t.me/Abduroxman_IT_blog](https://t.me/Abduroxman_IT_blog)
